@@ -1,3 +1,4 @@
+> [!WARNING]
 > All GitHub content by InfsBlue uses GitHub Copilot for code generation and Gemini Notebooks for research, unless explicitly noted otherwise within specific project documentation.
 
 # Manifesto
