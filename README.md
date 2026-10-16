@@ -6,9 +6,13 @@ Large language models deliver meaningful business value when built on resilient 
 
 # Repositories
 
-[`text2sql-postgres-gemma`](https://github.com/infsblue/text2sql-postgres-gemma) is a local-first engine PoC that converts natural-language questions into read-only PostgreSQL queries using CodeGemma.
+### [text2sql-postgres-gemma](https://github.com/infsblue/text2sql-postgres-gemma)
 
-[`system-one-gemma`](https://github.com/infsblue/system-one-gemma) is a local decision engine PoC that provides fast, structured classifications and confidence scores using Gemma.
+A local-first engine PoC that converts natural-language questions into read-only PostgreSQL queries using CodeGemma.
+
+### [system-one-gemma](https://github.com/infsblue/system-one-gemma)
+
+A local decision engine PoC that provides fast, structured classifications and confidence scores using Gemma.
 
 # Wiki
 
