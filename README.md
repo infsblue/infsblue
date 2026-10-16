@@ -20,4 +20,4 @@ Visit the [InfsBlue Research Wiki](https://github.com/infsblue/infsblue.github.i
 
 ### [Fast and Slow AI: Understanding System 1, System 2, and Modern Decision Architectures](https://github.com/infsblue/infsblue.github.io/wiki/Fast-and-Slow-AI:-Understanding-System-1,-System-2,-and-Modern-Decision-Architectures)
 
-Explores how the human System 1/System 2 distinction informs modern AI architectures, contrasting specialized fast decision models with constrained generative models. It also examines using CodeGemma for both code generation and automated evaluation, with confidence gating and deterministic safeguards.
+Explores how the human System 1 / System 2 distinction informs modern AI architectures, contrasting specialized fast decision models with constrained generative models. It also examines using CodeGemma for both code generation and automated evaluation, with confidence gating and deterministic safeguards.
